@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\MutlakKare\bin\Debug\net7.0\MutlakKare.exe
+C:\Users\MONSTER\GitProject\MutlakKare\bin\Debug\net7.0\MutlakKare.deps.json
+C:\Users\MONSTER\GitProject\MutlakKare\bin\Debug\net7.0\MutlakKare.runtimeconfig.json
+C:\Users\MONSTER\GitProject\MutlakKare\bin\Debug\net7.0\MutlakKare.dll
+C:\Users\MONSTER\GitProject\MutlakKare\bin\Debug\net7.0\MutlakKare.pdb
+C:\Users\MONSTER\GitProject\MutlakKare\obj\Debug\net7.0\MutlakKare.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\MutlakKare\obj\Debug\net7.0\MutlakKare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\MutlakKare\obj\Debug\net7.0\MutlakKare.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\MutlakKare\obj\Debug\net7.0\MutlakKare.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\MutlakKare\obj\Debug\net7.0\MutlakKare.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\MutlakKare\obj\Debug\net7.0\MutlakKare.dll
+C:\Users\MONSTER\GitProject\MutlakKare\obj\Debug\net7.0\refint\MutlakKare.dll
+C:\Users\MONSTER\GitProject\MutlakKare\obj\Debug\net7.0\MutlakKare.pdb
+C:\Users\MONSTER\GitProject\MutlakKare\obj\Debug\net7.0\MutlakKare.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\MutlakKare\obj\Debug\net7.0\ref\MutlakKare.dll
